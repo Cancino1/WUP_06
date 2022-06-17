@@ -108,6 +108,7 @@ fisher.test(table2)
 fisherXY(mydata$cappun,mydata$race)
 ```
  
+The p value of the first chunk has a p value of .000000000000002033 and the second chunk of p value of .02479 which are both smaller than .05. Therefore we can conclude that there is a difference in race and thoughts on the death sentence. Therefore we reject the null hypothesis due to the p values being less then 0.05. Also on the fisher exact test the p value .00000000000000575, also less than .05
 
 # Discussion and Conclusion
 
